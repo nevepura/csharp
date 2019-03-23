@@ -1,0 +1,4 @@
+Il file sorgente e`:		{nome}.cs
+Si compila con:	mcs {nome}.cs	e si ottiene un .exe
+Si esegue l'eseguibile con:	mono {nome}.exe
+Fine.
